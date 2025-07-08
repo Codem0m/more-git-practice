@@ -12,3 +12,12 @@ h1{
     font-family:fantasy;
     font-size:x-large;
 }
+ol {
+    /*border: 2px solid black;*/
+    list-style-position: inside;
+    text-align: left;
+    padding-left: 184px;
+    width: 400px;
+    margin: 0 auto;
+
+}
