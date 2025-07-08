@@ -4,6 +4,9 @@ html {
 }
 body {
     background-color:yellow;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
 }
 h1{
     font-family:fantasy;
