@@ -10,7 +10,7 @@ html {
     font-size: 16px;
 }
 body {
-    background-color:yellow;
+    background-color:beige;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     min-height: 100vh; /*Starts page with 100% height. Uses viewport height.*/
@@ -22,13 +22,15 @@ h1{
     font-family:fantasy;
     font-size:x-large;
     background-color: tan;
+    padding: 5%;
 }
 ol {
     /*border: 2px solid black;*/
     list-style-position: inside;
     text-align: left;
     padding-left: 184px;
+    padding-top:5%;
     width: 400px;
     margin: 0 auto;
-
+    background-color: olivedrab;
 }
