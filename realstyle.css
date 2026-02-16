@@ -20,7 +20,8 @@ body {
 
 h1{
     font-family:fantasy;
-    font-size:x-large;
+    font-size:3rem;
+    letter-spacing: .5rem;
     background-color: tan;
     padding: 5%;
 }
@@ -28,8 +29,7 @@ ol {
     /*border: 2px solid black;*/
     list-style-position: inside;
     text-align: left;
-    padding-left: 184px;
-    padding-top:5%;
+    padding:5%;
     width: 400px;
     margin: 0 auto;
     background-color: olivedrab;
